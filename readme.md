@@ -1,4 +1,5 @@
 # Lottery Contract
+> Solidity code is deprecated. Refer to [this](https://github.com/chickensmitten/solidity-basics) for more info
 ## How it works
 - Players put their eth into the smart contract
 - Manager then will tell the contract to pick a winner
